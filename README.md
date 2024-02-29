@@ -4,11 +4,11 @@
 
 This repository consists of all the practicals which we have performed this semester along with their detailed description of each.
 
-[Git and Git-Hub - 22CSH-293](https://github.com/Sakshi-code13/Semester-4/tree/Git-and-GitHub)
+## [Git and Git-Hub - 22CSH-293](https://github.com/Sakshi-code13/Semester-4/tree/Git-and-GitHub)
 
 Git and GitHub are integral tools in the software development process. Git's distributed version control system enables efficient collaboration, branching, and merging, while GitHub provides a web-based platform with additional features like pull requests, issue tracking, and project management tools. Together, these tools empower developers to work seamlessly, manage projects effectively, and ensure the integrity of their codebase throughout the development lifecycle.
 
-Experiments:-
+## Experiments:-
 1. [Installation of Git and Create repository](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Experiment%201.pdf)
    In this experiment, we got to know about how to install Git on different operating devices with their different versions, and also acquired knowledge about how to create a repository with Git and GitHub.
    
@@ -21,35 +21,36 @@ Experiments:-
 4. [Editing a file and committing changes on GitHub](https://github.com/Sakshi-code13/Semester-4/blob/Git-and-GitHub/Experiment%204.pdf)
    In this experiment, we learned to edit a file and commit changes to it on GitHub.
 
-[Desing and Analysis of Algorithms (DAA) - 22CSH-282](https://github.com/Sakshi-code13/Semester-4/tree/Design-and-Analysis-of-Algorithms)
+## [Desing and Analysis of Algorithms (DAA) - 22CSH-282](https://github.com/Sakshi-code13/Semester-4/tree/Design-and-Analysis-of-Algorithms)
 
 
-Experiments:-
-1. [Implementation of Binary Search using the Divide & Conquer Approach](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%201.docx):- 
+## Experiments:-
+1. [Implementation of Binary Search using the Divide & Conquer Approach](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%201.docx) In this experiment, we learned about how to perform Binary search using recursion. 
 
-2. [Implementation of Quick Sort Algorithm using Divide & Conquer Approach](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%202%20(2).docx) :-
+2. [Implementation of Quick Sort Algorithm using Divide & Conquer Approach](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%202%20(2).docx) In this experiment, we learned about how to perform Quick Sort using recursion. 
 
-3. [Implementation of Strassen's Matrix multiplication](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%203%20(2).docx)
 
-4. [Find out the Minimum Cost Spanning Tree using Kruskal’s Algorithm with the help of the Greedy Approach](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%204.pdf)
+3. [Implementation of Strassen's Matrix multiplication](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%203%20(2).docx) In this experiment, we learned about how Strassen's Matrix Works and its Multiplication. 
 
-5. [Perform Job Sequencing with a deadline using the Greedy Approach using C/C++](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%205.pdf)
+4. [Find out the Minimum Cost Spanning Tree using Kruskal’s Algorithm with the help of the Greedy Approach](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%204.pdf) In this experiment, we learned about Minimum Cost Spanning Tree and how to use Kruskal’s Algorithm and Greedy Approach to find Minimum Cost Spanning Tree.
+
+5. [Perform Job Sequencing with a deadline using the Greedy Approach using C/C++](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%205.pdf)In this experiment, we learned about Job Sequencing and how to use Greedy Approach to perform Job Sequencing.
 
 6. [Implement Travelling Salesman Problem (TSP) using Dynamic Programming](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%206.pdf)
 
-7. [Perform Matrix Chain Multiplication Problem (MCM) using Dynamic Programming](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%207.pdf)
+7. [Perform Matrix Chain Multiplication Problem (MCM) using Dynamic Programming](https://github.com/Sakshi-code13/Semester-4/blob/Design-and-Analysis-of-Algorithms/Experiment%207.pdf)In this experiment, we learned about Matrix Chain Multiplication and Dynamic Programming and to perform MCM using Dynamic Programming.
 
-[Agile Practices - 22CSH-292](https://github.com/Sakshi-code13/Semester-4/tree/Agile-Practices)
+## [Agile Practices - 22CSH-292](https://github.com/Sakshi-code13/Semester-4/tree/Agile-Practices)
 
-Experiments:-
-1. [Mapping Agile Development approach with Software Development](https://github.com/Sakshi-code13/Semester-4/blob/Agile-Practices/Experiment%201.docx)
+## Experiments:-
+1. [Mapping Agile Development approach with Software Development](https://github.com/Sakshi-code13/Semester-4/blob/Agile-Practices/Experiment%201.docx) In this experiment, we learned about agile and the other methodologies and their comparison.
 
-2. [Test Driven Development using Junit](https://github.com/Sakshi-code13/Semester-4/blob/Agile-Practices/Experiment%202.docx)
+2. [Test Driven Development using Junit](https://github.com/Sakshi-code13/Semester-4/blob/Agile-Practices/Experiment%202.docx)In this experiment, we learned about unit testing and its implementation.
 
-3. [Test Driven Development using Selenium](https://github.com/Sakshi-code13/Semester-4/blob/Agile-Practices/Experiment%203.docx)
+3. [Test Driven Development using Selenium](https://github.com/Sakshi-code13/Semester-4/blob/Agile-Practices/Experiment%203.docx) In this experiment, we learned about Selenium and how Test Driven Deployment is made on Selenium.
 
-4. [Explain the software development scenario using Extreme Programming(XP)](https://github.com/Sakshi-code13/Semester-4/blob/Agile-Practices/Experiment%204.docx)
+4. [Explain the software development scenario using Extreme Programming(XP)](https://github.com/Sakshi-code13/Semester-4/blob/Agile-Practices/Experiment%204.docx) In this experiment, we learned about Extreme Programming and Explain a software development scenario using XP.
 
-5. [Explain the Software development scenario using Scrum](https://github.com/Sakshi-code13/Semester-4/blob/Agile-Practices/Experiment%205.docx)
+5. [Explain the Software development scenario using Scrum](https://github.com/Sakshi-code13/Semester-4/blob/Agile-Practices/Experiment%205.docx)In this experiment, we learned about Scrum and Explain a software development scenario using Scrum.
 
 
